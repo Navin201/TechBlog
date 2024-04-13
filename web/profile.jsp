@@ -3,7 +3,7 @@
     Created on : 13-Dec-2022, 2:57:39 pm
     Author     : NAVIN
 --%>
-<%@page import="java.util.ArrayList"%>
+<%@page   import="java.util.ArrayList"%>
 <%@page import="com.techblog.helper.Categories"%>
 <%@page import="com.techblog.helper.ConnectionProvider"%>
 <%@page import="java.sql.Connection"%>
